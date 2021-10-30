@@ -7,6 +7,8 @@ using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
+
+//---ROCIO AGUSTI----
 namespace Data.Models
 {
     [Table("Detalle_ingreso")]

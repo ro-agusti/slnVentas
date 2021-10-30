@@ -8,6 +8,7 @@ using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 
+//---ORNELLA OLIVASTRI----
 namespace Data.Models
 {
     [Table("Venta")]
@@ -60,18 +61,9 @@ namespace Data.Models
         [ForeignKey("idcliente")]
         public Cliente cliente { get; set; }
 
-
         public List<Detalle_venta> detalle_venta { get; set; }
-        //[ForeignKey("iddetalle_venta")]
-        //public Detalle_venta detalle_venta { get; set; }
-
-        //public List<Cliente> cliente { get; set; }
 
         [ForeignKey("idtrabajador")]
-        public Trabajador trabajador { get; set; }
-
-        //public List<Trabajador> trabajador { get; set; }
-
-        
+        public Trabajador trabajador { get; set; } 
     }
 }

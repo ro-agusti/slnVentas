@@ -7,6 +7,8 @@ using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
+
+//---MARTINA LUSARDI ----
 namespace Data.Models
 {
     [Table("Cliente")]

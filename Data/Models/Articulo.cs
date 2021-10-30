@@ -7,6 +7,8 @@ using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
+
+//---NAHUEL GONZALEZ----
 namespace Data.Models
 {
     [Table("Articulo")]
@@ -35,14 +37,6 @@ namespace Data.Models
         public int IdCategoria { get; set; }
         public int IdPresentacion { get; set; }
 
-        //[ForeignKey("IdCategoria")]
-        //public Categoria categoria { get; set; }
-
-        //[ForeignKey("IdPresentacion")]
-        //public Presentacion presentacion { get; set; }
-
-        //[ForeignKey("DetalleIngreso")]
         public List<Detalle_ingreso> detalle_Ingresos { get; set; }
-        //public Detalle_ingreso detalleIngreso { get; set; }
     }
 }

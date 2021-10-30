@@ -7,6 +7,8 @@ using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
+
+//---SANTIAGO ROMANO ODDONE ----
 namespace Data.Models
 {
     [Table("Trabajador")]
