@@ -1,0 +1,13 @@
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\19-entityFrameworkX6.0\slnVentas\Data\bin\Debug\Data.dll.config
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\19-entityFrameworkX6.0\slnVentas\Data\bin\Debug\Data.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\19-entityFrameworkX6.0\slnVentas\Data\bin\Debug\Data.pdb
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\19-entityFrameworkX6.0\slnVentas\Data\bin\Debug\EntityFramework.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\19-entityFrameworkX6.0\slnVentas\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\19-entityFrameworkX6.0\slnVentas\Data\bin\Debug\EntityFramework.xml
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\19-entityFrameworkX6.0\slnVentas\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\19-entityFrameworkX6.0\slnVentas\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\19-entityFrameworkX6.0\slnVentas\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\19-entityFrameworkX6.0\slnVentas\Data\obj\Debug\Data.dll
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\19-entityFrameworkX6.0\slnVentas\Data\obj\Debug\Data.pdb
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\19-entityFrameworkX6.0\slnVentas\Data\obj\Debug\Data.Migrations.initial.resources
+C:\Users\Rocio\Documents\PROGRAMACION\ACCENTURE\ACADEMY\19-entityFrameworkX6.0\slnVentas\Data\obj\Debug\Data.csproj.GenerateResource.cache
